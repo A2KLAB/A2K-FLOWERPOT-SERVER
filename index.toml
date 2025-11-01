@@ -85,11 +85,6 @@ hash = "ff991657ef2511d8f02a9999d55ec367a37b20a3987eb1d75ff82ba720a96aa5"
 metafile = true
 
 [[files]]
-file = "mods/better-fabric-console.pw.toml"
-hash = "2ce508a2e7433dc80605342a6e3b086af3912d6d18274543c688d41decee9a67"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "bde7656538438b55fdebb37dfe0bca308e8f6102ce55c6f9296beda0d7c5e561"
 metafile = true
