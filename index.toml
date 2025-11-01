@@ -6,7 +6,7 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "README.md"
-hash = "479c1125eeb317d738554547a6983c6a6c53e817989850d9cafa6c1651d14743"
+hash = "fb6988a5eda9ef8053fc3053bc353340c7b319cf6555598b4e70424f670347b0"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -59,6 +59,10 @@ hash = "564937e9bb15ddeb6741ce741a35486bc71b2a9a178d176b6107cfcb30747540"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "2299e914f3c3570ea6d0720ce58078396ad21f730c8db3152ce27e9513c48cb5"
+
+[[files]]
+file = "config/yosbr/server.properties"
+hash = "46d8fa3158af2909e546bea3c15557eb0b8791cca44f18003d71e94605717972"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
