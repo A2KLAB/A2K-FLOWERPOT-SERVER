@@ -6,7 +6,7 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "README.md"
-hash = "fb6988a5eda9ef8053fc3053bc353340c7b319cf6555598b4e70424f670347b0"
+hash = "753f134e1e5698acd3dec4e18963f711f78a038c3d65ddc565b244b3782fca9c"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -65,6 +65,11 @@ file = "config/yosbr/server.properties"
 hash = "46d8fa3158af2909e546bea3c15557eb0b8791cca44f18003d71e94605717972"
 
 [[files]]
+file = "mods/adventure-platform-mod.pw.toml"
+hash = "16836308db916c76ba4b25d566c0651d98ec55c1f065dd00a21660db162065cb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
@@ -77,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "ff991657ef2511d8f02a9999d55ec367a37b20a3987eb1d75ff82ba720a96aa5"
+metafile = true
+
+[[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "2ce508a2e7433dc80605342a6e3b086af3912d6d18274543c688d41decee9a67"
 metafile = true
 
 [[files]]
@@ -160,6 +170,11 @@ hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "ceadd493611f2ba6e1fd0d323db2200d7dfe99930631c3eda91279e7493e609e"
+metafile = true
+
+[[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "1ba8624e6fdea849e4cd5acccd5e31e9b5bd162b07b6a3aca0cdb0a55b34d136"
 metafile = true
@@ -202,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
+metafile = true
+
+[[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "e95c3632595162ddc8c48188979f19ef47c1965f36c9acc7be0f296d39c7ffa2"
 metafile = true
 
 [[files]]

@@ -27,6 +27,7 @@ This modpack enhances the vanilla Minecraft experience with visual improvements 
 - Clumps
 - spark
 - Pl3xmap
+- Tool Trims
 
 ---
 
@@ -34,8 +35,6 @@ This modpack enhances the vanilla Minecraft experience with visual improvements 
 
 | Mod Name           | Issue Description                                                                                           |
 |--------------------|------------------------------------------------------------------------------------------------------------|
-| Dynamic Lights     | Failed to get latest version of dependency Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL). No valid versions found. |
-| Tool Trims         | Causes warning that spam logs : Failed to read value ({custom_item_version:1b,tool_trim_smithing_template:1b}): No key $polymer:stack in MapLike[...] |
 | Calm down, dog!    | Crashes on petting dog                                                                                    |
 
 ---
