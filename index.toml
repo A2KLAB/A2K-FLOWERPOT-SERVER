@@ -175,11 +175,6 @@ hash = "1ba8624e6fdea849e4cd5acccd5e31e9b5bd162b07b6a3aca0cdb0a55b34d136"
 metafile = true
 
 [[files]]
-file = "mods/pl3xmap.pw.toml"
-hash = "24da707e6143d45cd9bf480f3d531743d87923c7c8941e1ddc4eefebc49a2ffe"
-metafile = true
-
-[[files]]
 file = "mods/polymer.pw.toml"
 hash = "22a83a04b4df87ab4bbea18228c3cc695551610c66cc79ccc315d783d3f7848f"
 metafile = true
