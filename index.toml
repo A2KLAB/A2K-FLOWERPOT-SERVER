@@ -91,6 +91,11 @@ hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "b98e0aca52ce8d08ee8df7177886589511b8bca779af078a6ff4837e814bccf4"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "3d24d58b2caf4fd73d76b2d734a1d06490994d5d38177376e6f5d8d9f8fb87e0"
 metafile = true
@@ -156,6 +161,11 @@ hash = "1ba8624e6fdea849e4cd5acccd5e31e9b5bd162b07b6a3aca0cdb0a55b34d136"
 metafile = true
 
 [[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "24da707e6143d45cd9bf480f3d531743d87923c7c8941e1ddc4eefebc49a2ffe"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "22a83a04b4df87ab4bbea18228c3cc695551610c66cc79ccc315d783d3f7848f"
 metafile = true
@@ -183,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
 metafile = true
 
 [[files]]
