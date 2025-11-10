@@ -42,7 +42,7 @@ hash = "2299e914f3c3570ea6d0720ce58078396ad21f730c8db3152ce27e9513c48cb5"
 
 [[files]]
 file = "config/yosbr/server.properties"
-hash = "46d8fa3158af2909e546bea3c15557eb0b8791cca44f18003d71e94605717972"
+hash = "ac54fed0993a9ba3e350a4417951d21688b55d71c4b43a435b58e917aeeea961"
 
 [[files]]
 file = "mods/adventure-platform-mod.pw.toml"
@@ -132,11 +132,6 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "ffd2bde70110ba1d26bf841930556307a5bdfa3159b194e6e30ac5192be61754"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "ceadd493611f2ba6e1fd0d323db2200d7dfe99930631c3eda91279e7493e609e"
 metafile = true
 
 [[files]]
