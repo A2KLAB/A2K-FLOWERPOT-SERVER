@@ -70,6 +70,11 @@ hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
 metafile = true
 
 [[files]]
+file = "mods/async.pw.toml"
+hash = "cd8f4196eb132f2a1ebb8098c311f2f9ebf60b850d8afedfd4eb8893a8a4e412"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "22c41917ad4c966fdd627f3a4d9c1cb55db4220a2c087ae5518589fcf3d0a74a"
 metafile = true
