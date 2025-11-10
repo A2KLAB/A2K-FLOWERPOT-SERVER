@@ -9,28 +9,12 @@ file = "README.md"
 hash = "753f134e1e5698acd3dec4e18963f711f78a038c3d65ddc565b244b3782fca9c"
 
 [[files]]
-file = "config/yosbr/config/badoptimizations.txt"
-hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
-
-[[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "aa798e887fb1fe69563a06e259dc2be59bcb3baf45ec05c1ded759ac6c1ff3ef"
-
-[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "ef55a85f0905e41d93de2b7e53266d393bf58f43917d9b15ea8f66b757a5996d"
 
 [[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
-
-[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
-
-[[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -43,10 +27,6 @@ hash = "7ed78d3273aebb454ea062b841297b6a498364b997596383354402487e0e0434"
 [[files]]
 file = "config/yosbr/config/servercore/optimizations.yml"
 hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "5b24c9a57bb6092df95d9e8ec3c79574103967cef4db94508b9b172df1e447e5"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
@@ -70,6 +50,16 @@ hash = "16836308db916c76ba4b25d566c0651d98ec55c1f065dd00a21660db162065cb"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "49a33ac37445e3c08eb1a958b4f81f0c9ce356a8c08ace17e5df98e18558b4b1"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "ddc96b08f1a32a08edd9b8e34257b9a37ea9b3836ae4371e26f54c4ade4fe3f1"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
@@ -80,13 +70,8 @@ hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "ff991657ef2511d8f02a9999d55ec367a37b20a3987eb1d75ff82ba720a96aa5"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bde7656538438b55fdebb37dfe0bca308e8f6102ce55c6f9296beda0d7c5e561"
+hash = "22c41917ad4c966fdd627f3a4d9c1cb55db4220a2c087ae5518589fcf3d0a74a"
 metafile = true
 
 [[files]]
@@ -96,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
+hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
 metafile = true
 
 [[files]]
@@ -115,38 +100,18 @@ hash = "000cca573d23a563a51cf4128092d424fdea24db9bb45e215c6a68508d8011b6"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "d541d1522108112346d35a6e9a3a9979d735cfc766d3ea6477c6306450c35f23"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "3a4add64a54b7d4df688fc0f58872bf130ffeb7a6016a5e59d009f7317810c82"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "023334b6d5d5472a218b475e8264bf30d09592eae65de9e597180950e5632a49"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b908cccddb4f18a5f570a0201b7a6f7f6775f9fcb0dcd0a1a0d7600ff1d7c7f3"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
 metafile = true
 
 [[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "9b85ab571026d3cf1d1c714c86335d6baf93c850f083c779c173cd2bf3ffca9b"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "5f40e2db6037f733566c81e8f11ca3c425d738eb5a182658691f36d041b5df40"
 metafile = true
 
 [[files]]
@@ -162,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ffd2bde70110ba1d26bf841930556307a5bdfa3159b194e6e30ac5192be61754"
 metafile = true
 
 [[files]]
@@ -186,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "4e8594e405f040e73813e5dbb0eb0d5f0f326f8ba07b27f2e8698b22598aa94e"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
@@ -200,18 +170,23 @@ hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
 file = "mods/tool-trims.pw.toml"
 hash = "e95c3632595162ddc8c48188979f19ef47c1965f36c9acc7be0f296d39c7ffa2"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "d039768c39de4e27eb317c590dc65e16b5c9afddd402089227617a03f58a9db4"
 metafile = true
 
 [[files]]
@@ -231,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "5f004960631595a9ec4aee58086d997f30405b63d2638eab77a11d34088e7dbf"
+hash = "bddb759a3929a93eff8ef2d36acfb7a45b455183c6d2019b346347767a335ce4"
 metafile = true
 
 [[files]]
